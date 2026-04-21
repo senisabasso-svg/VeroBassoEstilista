@@ -43,7 +43,11 @@ export function Hero() {
 
         <div className="hero__visual reveal reveal--delay-1" aria-hidden>
           <div className="hero__frame hero__frame--main">
-            <img src="/images/portfolio-perfil.png" alt="Trabajo de color y peinado en salón" loading="eager" />
+            <img
+              src="/images/hero-principal.png"
+              alt="Verónica Basso realizando peinado de novia con velo en salón"
+              loading="eager"
+            />
           </div>
           <div className="hero__frame hero__frame--accent">
             <img src="/images/portfolio-balayage.png" alt="" loading="lazy" />
