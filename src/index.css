@@ -459,9 +459,9 @@ a:hover {
   object-fit: cover;
 }
 
-/* Encuadre de la foto principal (novia / trabajo en salón) */
+/* Encuadre de la foto principal (lavacabezas / tratamiento) */
 .hero__frame--main img {
-  object-position: 44% 22%;
+  object-position: 50% 35%;
 }
 
 .hero__frame--main {
@@ -499,7 +499,7 @@ a:hover {
   }
 
   .hero__frame--main img {
-    object-position: 50% 18%;
+    object-position: 50% 30%;
   }
 }
 

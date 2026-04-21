@@ -45,7 +45,7 @@ export function Hero() {
           <div className="hero__frame hero__frame--main">
             <img
               src="/images/hero-principal.png"
-              alt="Verónica Basso realizando peinado de novia con velo en salón"
+              alt="Tratamiento capilar en lavacabezas, estilista peinando el cabello de la clienta"
               loading="eager"
             />
           </div>
